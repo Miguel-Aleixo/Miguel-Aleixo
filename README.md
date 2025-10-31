@@ -17,22 +17,12 @@ Desenvolvedor Web | 16 anos | Brasil
 ---
 
 ## 🚀 Projetos em destaque
-- [Dashboard Admin](link-do-repo) — Painel administrativo com Next.js e TypeScript  
-- [Sistema Delivery-Now](link-do-repo) — Sistema de pedidos online com Next.js  
-- [Site de Portfolio](link-do-repo) — Site pessoal responsivo usando Tailwind CSS  
-
-*(Adicione mais projetos aqui, sempre com link do repositório ou demo online)*
+- [MandFrost](link-do-repo) — Sistema de atendimento para sorveterias com Next.js e Express.js  
+- [Delivery Now](link-do-repo) — Sistema de pedidos online para pizzarias com Next.js e Express.js  
+- [Sound Day](link-do-repo) — Plataforma de músicas com Next.js, React e TypeScript   
 
 ---
 
 ## 📫 Contato
-- Email: seuemail@dominio.com  
+- Email: migueloliveiraaleixosantos1@gmail.com  
 - LinkedIn: [linkedin.com/in/miguel-aleixo](https://www.linkedin.com/in/miguel-aleixo)  
-- Portfólio: [link-do-portfolio](https://)  
-
----
-
-## 📚 Aprendendo atualmente
-- GraphQL  
-- Next.js avançado  
-- Desenvolvimento de dashboards interativos
