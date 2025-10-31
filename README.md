@@ -18,7 +18,7 @@ Desenvolvedor Web | 16 anos | Brasil
 
 ## 🚀 Projetos em destaque
 - [MandFrost](https://github.com/Miguel-Aleixo/MandFrost) — Sistema de atendimento para sorveterias com Next.js e Express.js  
-- [Delivery Now](link-do-repo) — Sistema de pedidos online para pizzarias com Next.js e Express.js  
+- [Delivery Now](https://github.com/Miguel-Aleixo/Delivery-Now) — Sistema de pedidos online para pizzarias com Next.js e Express.js  
 - [Sound Day](link-do-repo) — Plataforma de músicas com Next.js, React e TypeScript   
 
 ---
