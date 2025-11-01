@@ -25,4 +25,4 @@ Desenvolvedor Web | 16 anos | Brasil
 
 ## 📫 Contato
 - Email: migueloliveiraaleixosantos1@gmail.com  
-- LinkedIn: [linkedin.com/in/miguel-aleixo](https://www.linkedin.com/in/miguel-aleixo)  
+- LinkedIn: [linkedin.com/in/miguel-aleixo](https://www.linkedin.com/in/miguel-o-8854a4395)  
