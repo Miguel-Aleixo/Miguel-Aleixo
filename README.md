@@ -27,4 +27,4 @@
 
 ### 📫 Contato  
 📧 **Email:** migueloliveiraaleixosantos1@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/miguel-o-8854a4395](https://www.linkedin.com/in/miguel-o-8854a4395)
+🔗 **LinkedIn:** [linkedin.com/in/miguel-alleixo](https://www.linkedin.com/in/miguel-alleixo)
