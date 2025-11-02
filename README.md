@@ -3,7 +3,6 @@ coloca todos em icones
 # Olá, eu sou Miguel 👋
 Desenvolvedor Web | 16 anos | Brasil
 
----
 
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
