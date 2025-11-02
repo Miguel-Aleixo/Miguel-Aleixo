@@ -17,9 +17,9 @@
 
 ## 🚀 Projetos em destaque
 
-- [🎨 **MandFrost**](https://github.com/Miguel-Aleixo/MandFrost) — Sistema de atendimento para sorveterias com Next.js, Tailwind e Express.js  
-- [🍕 **Delivery Now**](https://github.com/Miguel-Aleixo/Delivery-Now) — Sistema de pedidos online para pizzarias com Next.js e TailwindCSS  
-- [🎵 **Sound Day**](https://github.com/Miguel-Aleixo/Sound-Day) — Plataforma de músicas com Next.js, TypeScript e TailwindCSS  
+- [ **MandFrost**](https://github.com/Miguel-Aleixo/MandFrost) — Sistema de atendimento para sorveterias com Next.js, Tailwind e Express.js  
+- [ **Delivery Now**](https://github.com/Miguel-Aleixo/Delivery-Now) — Sistema de pedidos online para pizzarias com Next.js e TailwindCSS  
+- [ **Sound Day**](https://github.com/Miguel-Aleixo/Sound-Day) — Plataforma de músicas com Next.js, TypeScript e TailwindCSS  
 
 ---
 
@@ -44,6 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Aleixo&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
-
-<p align="center">Feito com ❤️ por <b>Miguel Aleixo</b></p>
