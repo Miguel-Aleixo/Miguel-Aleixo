@@ -1,5 +1,3 @@
-coloca todos em icones 
-
 # Olá, eu sou Miguel 👋
 Desenvolvedor Web | 16 anos | Brasil
 
