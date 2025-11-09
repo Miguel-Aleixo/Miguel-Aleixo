@@ -1,5 +1,5 @@
 # Miguel Aleixo
-Desenvolvedor Web • Next.js • TypeScript • Node.js
+Desenvolvedor Web • Next.js • TypeScript • Express.js
 
 ---
 
