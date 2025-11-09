@@ -1,43 +1,30 @@
 <h1 align="center">Miguel Aleixo</h1>
-
 <p align="center">Desenvolvedor Web • Next.js • TypeScript • Node.js</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Age-16-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Country-Brazil-black?style=for-the-badge">
-</div>
+### Sobre mim
+Desenvolvedor web focado em aplicações modernas utilizando **Next.js**, **TypeScript** e **TailwindCSS**.  
+Tenho experiência na construção de interfaces, APIs e soluções completas do frontend ao backend.
 
 ---
 
-### Stack Principal
-<div align="center">
-
-| Frontend | Backend | Ferramentas |
-|---------|---------|-------------|
-| Next.js | Node.js | Git |
-| React   | Express | SQL |
-| TailwindCSS | C# | Linux |
-
-</div>
+### Tecnologias
+- **Frontend:** Next.js, React, TypeScript, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Outros:** Git, SQL, C#  
 
 ---
 
-### Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **MandFrost** | Sistema de atendimento para sorveterias. | Next.js • TailwindCSS • Express.js |
-| **Delivery Now** | Sistema de pedidos online para pizzarias. | Next.js • TailwindCSS |
-| **Sound Day** | Plataforma de gerenciamento e reprodução de músicas. | Next.js • TypeScript • TailwindCSS |
+### Projetos
+- **MandFrost** — Sistema de atendimento para sorveterias.  
+  https://github.com/Miguel-Aleixo/MandFrost
 
----
+- **Delivery Now** — Sistema de pedidos online para pizzarias.  
+  https://github.com/Miguel-Aleixo/Delivery-Now
 
-### GitHub Overview
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Miguel-Aleixo&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=00000000">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Aleixo&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
-</div>
+- **Sound Day** — Plataforma de músicas com player e gerenciamento.  
+  https://github.com/Miguel-Aleixo/Sound-Day
 
 ---
 
