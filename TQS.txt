@@ -1,0 +1,45 @@
+MPS.BR
+
+O MPS.BR (Melhoria do Processo de Software Brasileiro) é um programa criado em 2003
+pela Softex, com apoio do governo e academia, visando melhorar a qualidade e maturidade
+no desenvolvimento de software, serviços e RH, com foco em empresas brasileiras de
+pequeno e médio porte. Ele oferece um caminho escalável para certificação a custos
+mais acessíveis que o CMMI.
+
+O MPS.BR (Melhoria de Processo do Software Brasileiro) é um modelo brasileiro
+ de melhoria de processos de software, criado pela SOFTEX.
+
+Ele possui 7 níveis de maturidade, do mais básico ao mais avançado:
+
+G – Parcialmente Gerenciado: controle básico de projetos e requisitos.
+
+F – Gerenciado: processos medidos, com qualidade e controle de configuração.
+
+E – Parcialmente Definido: processos organizacionais padronizados.
+
+D – Largamente Definido: foco em engenharia (requisitos, desenvolvimento, testes).
+
+C – Definido: processos bem estabelecidos na organização.
+
+B – Gerenciado Quantitativamente: controle por métricas e dados estatísticos.
+
+A – Em Otimização: melhoria contínua baseada em desempenho.
+
+👉 Resumindo: o MPS.BR organiza a evolução da empresa em 7 níveis (G até A),
+ aumentando gradualmente o controle, padronização, medição e melhoria dos processos.
+
+Resumo – Diferenças entre CMMI e MPS.BR
+
+O CMMI é um modelo internacional de melhoria de processos criado nos Estados Unidos,
+amplamente utilizado por grandes empresas e com reconhecimento mundial.
+Possui 5 níveis de maturidade e geralmente envolve custos mais elevados
+de implementação e certificação.
+
+O MPS.BR é um modelo brasileiro criado pela SOFTEX,
+inspirado no CMMI. Foi desenvolvido para atender principalmente 
+pequenas e médias empresas, com custo mais acessível e 7 níveis de 
+maturidade, permitindo uma evolução mais gradual.
+
+Em resumo, o CMMI tem foco internacional e maior complexidade,
+enquanto o MPS.BR é uma adaptação nacional mais acessível e adequada à 
+realidade das empresas brasileiras.
