@@ -29,7 +29,6 @@ https://github.com/Miguel-Aleixo/Delivery-Now
 Plataforma de gerenciamento e reprodução de músicas.  
 https://github.com/Miguel-Aleixo/Sound-Day
 
----
 
 ### Contato
 **Email:** migueloliveiraaleixosantos1@gmail.com  
