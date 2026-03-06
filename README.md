@@ -26,13 +26,13 @@ Experiência na construção de interfaces, APIs e aplicações completas do fro
 Sistema completo de e-commerce para pizzarias com cardápio digital, personalização de pedidos, dashboard administrativa e possibilidade de integração com bots de atendimento.  
 https://github.com/AxionDigital/Modelo-Pizzaria
 
+**Caminhos da Ironia**  
+Plataforma web para terapias integrativas e vibracionais com solicitação de espelhamento de consciência, agendamento de sessões e painel administrativo para gerenciamento de atendimentos.  
+https://github.com/AxionDigital/Caminhos-da-Ironia
+
 **MandFrost**  
 Sistema de atendimento para sorveterias.  
 https://github.com/Miguel-Aleixo/MandFrost
-
-**Sound Day**  
-Plataforma de gerenciamento e reprodução de músicas.  
-https://github.com/Miguel-Aleixo/Sound-Day
 
 
 ### Contato
