@@ -28,7 +28,7 @@ https://github.com/AxionDigital/Modelo-Pizzaria
 
 **Caminhos da Ironia**  
 Plataforma web para terapias integrativas e vibracionais com solicitação de espelhamento de consciência, agendamento de sessões e painel administrativo para gerenciamento de atendimentos.  
-https://github.com/AxionDigital/Caminhos-da-Ironia
+https://github.com/AxionDigital/CaminhosDaIronia
 
 **MandFrost**  
 Sistema de atendimento para sorveterias.  
@@ -36,5 +36,6 @@ https://github.com/Miguel-Aleixo/MandFrost
 
 
 ### Contato
+
 **Email:** migueloliveiraaleixosantos1@gmail.com  
 **LinkedIn:** https://linkedin.com/in/miguel-alleixo
