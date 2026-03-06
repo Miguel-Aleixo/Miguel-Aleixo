@@ -22,21 +22,18 @@ Experiência na construção de interfaces, APIs e aplicações completas do fro
 
 ### Projetos
 
+**Pizzaria Web System**  
+Sistema completo de e-commerce para pizzarias com cardápio digital, personalização de pedidos, dashboard administrativa e possibilidade de integração com bots de atendimento.  
+https://github.com/AxionDigital/Modelo-Pizzaria
+
 **MandFrost**  
 Sistema de atendimento para sorveterias.  
 https://github.com/Miguel-Aleixo/MandFrost
-
-**Delivery Now**  
-Sistema de pedidos online para pizzarias.  
-https://github.com/Miguel-Aleixo/Delivery-Now
 
 **Sound Day**  
 Plataforma de gerenciamento e reprodução de músicas.  
 https://github.com/Miguel-Aleixo/Sound-Day
 
-**Pizzaria Web System**  
-Sistema completo de e-commerce para pizzarias com cardápio digital, personalização de pedidos, dashboard administrativa e possibilidade de integração com bots de atendimento.  
-https://github.com/Miguel-Aleixo/NOME-DO-REPO
 
 ### Contato
 **Email:** migueloliveiraaleixosantos1@gmail.com  
