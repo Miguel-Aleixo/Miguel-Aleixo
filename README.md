@@ -36,7 +36,7 @@ https://github.com/AxionDigital/Modelo-Pizzaria
 
 **ChatOnline**  
 Aplicação de chat em tempo real com autenticação de usuários, troca de mensagens instantâneas e suporte a WebSocket, focada em comunicação dinâmica e escalável.  
-https://github.com/AxionDigital/CaminhosDaIronia
+https://github.com/Miguel-Aleixo/Chat-Online
 
 **MandFrost**  
 Sistema de atendimento para sorveterias.  
