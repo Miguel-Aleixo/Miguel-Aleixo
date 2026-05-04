@@ -1,11 +1,9 @@
 # Miguel Aleixo
-Desenvolvedor Web • Next.js • TypeScript • Express.js
+Desenvolvedor Web • Next.js • NestJS • TypeScript • Node.js
 
 ### Sobre mim
-Desenvolvedor web focado em aplicações modernas utilizando **Next.js**, **TypeScript** e **TailwindCSS**.  
-Experiência na construção de interfaces, APIs e aplicações completas do frontend ao backend.
-
-### Tecnologias
+Desenvolvedor web focado em aplicações modernas e escaláveis utilizando **Next.js**, **NestJS** e **TypeScript**.  
+Experiência no desenvolvimento de interfaces, APIs REST e sistemas em tempo real, com foco em arquitetura backend, performance e organização de código.
 
 ### Tecnologias
 
