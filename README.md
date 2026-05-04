@@ -34,8 +34,8 @@ Experiência na construção de interfaces, APIs e aplicações completas do fro
 Sistema completo de e-commerce para pizzarias com cardápio digital, personalização de pedidos, dashboard administrativa e possibilidade de integração com bots de atendimento.  
 https://github.com/AxionDigital/Modelo-Pizzaria
 
-**Caminhos da Ironia**  
-Plataforma web para terapias integrativas e vibracionais com solicitação de espelhamento de consciência, agendamento de sessões e painel administrativo para gerenciamento de atendimentos.  
+**ChatOnline**  
+Aplicação de chat em tempo real com autenticação de usuários, troca de mensagens instantâneas e suporte a WebSocket, focada em comunicação dinâmica e escalável.  
 https://github.com/AxionDigital/CaminhosDaIronia
 
 **MandFrost**  
