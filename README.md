@@ -1,5 +1,5 @@
 # Miguel Aleixo
-Desenvolvedor Web • Next.js • NestJS • TypeScript • Node.js • PostgreSQL • Docker • Prisma
+Desenvolvedor Web • Next.js • NestJS • TypeScript • Node.js • PostgreSQL • Docker
 
 ### Sobre mim
 Desenvolvedor web focado em aplicações modernas e escaláveis utilizando **Next.js**, **NestJS** e **TypeScript**.  
